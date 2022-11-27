@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/upvitaly/README/blob/main/github-header-image%20(4).png" />
 
 
 
@@ -49,7 +49,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  ![Snake animation](https://github.com/upvitaly/upvitaly/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <h2 align="center">
@@ -64,11 +64,11 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=upvitaly&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=upvitaly&theme=redical">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
