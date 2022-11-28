@@ -44,6 +44,13 @@
 </a>
 </p>
 
+## :sassy_man:  About me
+- :computer: I’m a `Full-Stack Web Developer` with 7 years of experience
+- :school: I’m a `Graduated` From Ivano-Frankivsk National Technical University of Oil and Gas
+- :technologist: I love `Building` Websites and apps
+- :student: I’m currently Working as a `Full-Stack eCommerce Platform Developer`.
+- :nerd_face: Always `learning new things`
+
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
