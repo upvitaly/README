@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bigcommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Woocommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
