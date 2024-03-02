@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bigcommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white"/>
